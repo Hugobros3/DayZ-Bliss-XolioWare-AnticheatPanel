@@ -1,0 +1,64 @@
+/*Created by hugobros3 - xoliocraft.org*/
+/*Please don't use parts of the code without demanding permission.*/
+tr:hover {
+background:#BBBBBB;
+}
+body{
+font-size:12px;
+font-family:Arial;
+color:#202020;
+}
+a
+{
+color:#202020;
+}
+a:hover
+{
+color:red;
+}
+#foot{
+padding-top:15px;
+font-size:9px;
+text-align:center;
+}
+#logo{
+font-size:9px;
+text-align:center;
+}
+#loginpanel{
+text-align:center;
+border:1px solid #AAAAAA;
+width:400px;
+padding:20px;
+margin:auto;
+}
+#logininfo{
+text-align:center;
+border:1px solid #AAAAAA;
+width:400px;
+padding:20px;
+margin:auto;
+}
+#userbar{
+width:800px;
+padding:5px;
+margin:auto;
+text-align:right;
+}
+#menu{
+padding-top:25px;
+width:100px;
+float:left;
+}
+#main{
+margin-left:120px;
+}
+tr .banned{
+background-color:red;
+}
+.banned{
+background-color:#FF8080;
+}
+.greenlist{
+background-color:#80FF80;
+}
